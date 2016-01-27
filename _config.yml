@@ -116,12 +116,12 @@ disqus:
 #################################### global configure #######################################
 
 username: minixalpha
-baseurl: /StrayBirds
+baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: 知识共享
+description: 独逼天才已死，创造及共享，产品优先。
 theme: kunka
 disqusname: minixalpha
 
